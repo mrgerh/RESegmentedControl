@@ -215,7 +215,7 @@ open class RESegmentedControl: UIControl {
     }
 
     open override func layoutSubviews() {
-        super.layoutSubviews()
+//        super.layoutSubviews()
 
         let itemSize = self.itemSize
 
